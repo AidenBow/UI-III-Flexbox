@@ -102,10 +102,6 @@ nav {
 	margin: 40px 0px 50px 0px;
 }
 
-.logo {
-	align-self: flex-end;
-}
-
 nav a {
 	width: 100px;
 	color: gray;
